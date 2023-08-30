@@ -1,0 +1,44 @@
+{
+  "name": "@enercon-open-source/ec-product-line",
+  "version": "0.0.0",
+  "description": "EC Product Line",
+  "type": "module",
+  "packageManager": "pnpm@8.5.1",
+  "engines": {
+    "node": "20.5.1",
+    "pnpm": "8.5.1"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enercon-open-source/ec-product-line.git"
+  },
+  "keywords": [],
+  "author": "Dmitry N. Medvedev <dmitry.medvedev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enercon-open-source/ec-product-line/issues"
+  },
+  "homepage": "https://github.com/enercon-open-source/ec-product-line#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.11",
+    "@babel/eslint-parser": "^7.22.11",
+    "@babel/eslint-plugin": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "eslint": "^8.48.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-node": "^0.3.9",
+    "eslint-module-utils": "^2.8.0",
+    "eslint-plugin-chai-friendly": "^0.7.2",
+    "eslint-plugin-es": "^4.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-rule-composer": "^0.3.0",
+    "eslint-scope": "^7.2.2",
+    "eslint-utils": "^3.0.0",
+    "eslint-visitor-keys": "^3.4.3"
+  }
+}
