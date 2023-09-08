@@ -2,10 +2,10 @@
   "name": "@enercon-open-source/es-product-line-fe",
   "version": "0.0.1",
   "private": true,
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@8.7.4",
   "engines": {
-    "node": "20.5.1",
-    "pnpm": "8.5.1"
+    "node": "20.6.0",
+    "pnpm": "8.7.4"
   },
   "engineStrict": true,
   "scripts": {
