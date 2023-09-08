@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "description": "EC Product Line",
   "type": "module",
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@8.7.4",
   "engines": {
-    "node": "20.5.1",
-    "pnpm": "8.5.1"
+    "node": "20.6.0",
+    "pnpm": "8.7.4"
   },
   "engineStrict": true,
   "scripts": {
